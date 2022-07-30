@@ -1,16 +1,15 @@
 <p align="center"> 
- <img src="https://avatars.githubusercontent.com/Fangzbotz2007" width="150" height="150"/> 
+ <img src="https://avatars.githubusercontent.com/jauhariq" width="150" height="150"/> 
  </p> 
- <h1 align='center'>💌 Haiii  :wave:</h1> 
- <p align='center'>Im Fangz welcome and thanks for visiting my github profile</p> 
+ <h1 align='center'>Hallo 👋 :wave:</h1> 
+ <p align='center'>Halo, Saya Fangz dan terima kasih sudah berkunjung ke profil github saya</p> 
  <p align="center"> 
- <a href="//instagram.com/fangzganz?igshid=YmMyMTA2M2Y="><img align="center" src="https://cardivo.vercel.app/api?name=Jauhariq&description=Halo,%20saya%20Fangz%20dan%20saya%20hanyalah%20manusia%20yang%20ingin%20berguna%20bagi%20manusia%20yang%20lain%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Fangzbotz2007&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kalimat2anime&github=Jauhariq&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://bit.ly/Animoneesan"/></a> 
+ <a href="//Instagram.com/kalimat2anime"><img align="center" src="https://cardivo.vercel.app/api?name=Jauhariq&description=Halo,%20saya%20Jauhari%20dan%20saya%20hanyalah%20manusia%20yang%20ingin%20berguna%20bagi%20manusia%20yang%20lain%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/jauhariq&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kalimat2anime&github=Jauhariq&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://bit.ly/Animoneesan"/></a> 
  </p> 
    
    
   <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jauhariq&color=blue&label=Visitor" /> 
-  </p> 
+  <img src="https://komarev.com/ghpvc/?username=Fangzbotz2007&color=blue&label=My Visitor" />
   
  ## Social media  
   
@@ -23,4 +22,4 @@
   
  ## Dashboard GH
  ![Github stat](https://github-readme-stats.vercel.app/api?username=Fangzbotz2007&theme=highcontrast&show_icons=true)  
- ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fangzbotz2007&theme=great-gatsby)
+ ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fangzbotz2007&theme=great-gatsby)Fangzbotz2007&theme=great-gatsby)
