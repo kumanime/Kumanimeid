@@ -15,18 +15,18 @@
   
   
  <p align="center"> 
-   <a href="https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Unxzx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
-   <a href="https://wa.me/6288215689772"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+   <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/Unxzx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+   <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
  </p> 
   
   
- <p align="center"> <a href="Fangzbotz2007"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Fangzbotz2007&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="Fangzbotz2007" /></a> </p><br>  
+ <p align="center"> <a href="unx21"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=unx21&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="unx21" /></a> </p><br>  
   
   
  <div align="center"> 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fangzbotz2007&show_icons=true&theme=nightowl" alt="Fangzbotz2007" /></p> 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unx21&show_icons=true&theme=nightowl" alt="unx21" /></p> 
   
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fangzbotz2007&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Fangzbotz2007"/></p></a><br>  
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unx21&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="unx21"/></p></a><br>  
   
  ## 
   
@@ -42,7 +42,7 @@
  <details> 
      <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/> 
   
- ![Metrics](https://metrics.lecoq.io/Fangzbotz2007?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FMakassar) 
+ ![Metrics](https://metrics.lecoq.io/unx21?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FMakassar) 
   
  </details> 
   
@@ -51,7 +51,7 @@
  ### What is this ? 
  <details> 
     <summary>&#127942 <b>My Jobless Project</summary> 
-    <a href="https://github.com/Fangzbotz2007/FangzBOT-MD-V4"> 
+    <a href="https://github.com/unx21/ayame"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=ayame"> 
     <a href="https://github.com/Kokoronationz/mirai"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kokoronationz&repo=mirai"> 
@@ -59,4 +59,3 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Bot-Rain"> 
    </a> 
  </details>
- 
