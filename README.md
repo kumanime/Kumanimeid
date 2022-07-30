@@ -1,5 +1,6 @@
 # My-Profile 
   
+  
  <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> 
   
  <div align="center"> 
@@ -16,10 +17,10 @@
   
  ### Sosial Media 
  [![YouTube](https://img.shields.io/badge/FangzXD-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg) 
- [![Instagram](https://img.shields.io/badge/FangzXD-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fangzjb) 
+ [![Instagram](https://img.shields.io/badge/FangzXD-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y) 
   
  ## Stats 
- ![FangzXD Dashboard](https://github-readme-stats.vercel.app/api?username=Fangzbotz2007&show_icons=true&theme=radical) 
+ ![FangzXD Github Visitor](https://github-readme-stats.vercel.app/api?username=Fangzbotz2007&show_icons=true&theme=radical) 
  <p align="center"><a href="https://github.com/Fangzbotz2007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangzGanz&theme=radical&layout=compact"></a></p> 
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   
