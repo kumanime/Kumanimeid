@@ -6,7 +6,7 @@
  <div align="center"> 
   
  --- 
- ## Hello, Im [FangzXD](https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses: 
+ ## Hello, Im [FangzXD](https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses: 
   
  <p align="center"> 
    <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+FangzXD;Learning++JavaScript.;not+Bully+me%2C++Bwang+%3A).;Thank+you+for+your+attention." alt="budii"> 
@@ -21,7 +21,7 @@
   
  ## Stats 
  ![FangzXD Github Visitor](https://github-readme-stats.vercel.app/api?username=FangzGanz&show_icons=true&theme=radical) 
- <p align="center"><a href="https://github.com/Fangzbotz2007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangzGanz&theme=radical&layout=compact"></a></p> 
+ <p align="center"><a href="https://github.com/Fangzbotz2007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fangzbotz2007&theme=radical&layout=compact"></a></p>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   
  ### Repo Stats 🔭 
