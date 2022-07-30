@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# My-Profile 
-  
-  
- <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> 
-  
- <div align="center"> 
-  
- --- 
- ## Hello, Im [FangzXD](https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses: 
-  
- <p align="center"> 
-   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+FangzXD;Learning++JavaScript.;not+Bully+me%2C++Bwang+%3A).;Thank+you+for+your+attention." alt="budii"> 
- </p> 
   
  ## Contact Me! 
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772) 
